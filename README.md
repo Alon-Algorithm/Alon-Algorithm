@@ -1,25 +1,24 @@
-# 👋 Hi, I'm Alondwe Mabaso
+# Alondwe Mabaso
 
-**`Alon-Algorithm`**
+**Alon-Algorithm**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alondwe-mabaso-0b099937b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alon-Algorithm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://alon-algorithm.github.io/My-Portfolio/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
-## 🚀 About Me
+## About
 
-🎓 **Computer Science student** at the University of the Witwatersrand  
-💻 **Full-Stack Developer** | **Mobile Developer** | **Machine Learning Enthusiast**  
-🔭 Built the **AI-Powered Career Intelligence Platform**  
-🌱 Currently learning  **Machine Learning**  
-  
+Computer Science student at the University of the Witwatersrand.  
+Full-Stack Developer with experience in Java, Python, PHP, and React.  
+Machine Learning practitioner with hands-on experience in scikit-learn and K-Means clustering.  
+Built and deployed the AI-Powered Career Intelligence Platform.  
+Currently expanding knowledge in Machine Learning and Parallel Computing.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -44,7 +43,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### ML & AI
+### Machine Learning & AI
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -57,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alon-Algorithm&show_icons=true&theme=dark&count_private=true"/>
@@ -66,55 +65,55 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. AI-Powered Career Intelligence Platform
-[![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Alon-Algorithm/career-intelligence-platform)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://career-intelligence-platform-1-xuy1.onrender.com)
+### AI-Powered Career Intelligence Platform
+[Repository](https://github.com/Alon-Algorithm/career-intelligence-platform) | [Live Demo](https://career-intelligence-platform-1-xuy1.onrender.com)
 
-Full-stack AI application using K-Means clustering to analyze CVs and provide personalized career recommendations.
-- **Tech:** React, TypeScript, FastAPI, Python, scikit-learn, K-Means, Docker, Render
+Full-stack AI application using K-Means clustering to analyze CVs and provide personalized career recommendations with learning resources, certifications, and project ideas.
 
-### 2. Mobile Market (Android + PHP)
+- React + TypeScript frontend with Tailwind CSS
+- FastAPI backend with scikit-learn for ML clustering
+- PDF parsing and skill extraction
+- 10 career clusters with detailed insights
+- Deployed on Render with CI/CD
+
+### Mobile Market (Android + PHP)
 Full-stack mobile marketplace with user authentication and rating system.
-- **Tech:** Java, Android Studio, PHP, MySQL, LAMP
 
-### 3. Ukuthula: Community Shield App
+- Java + Android Studio frontend
+- PHP RESTful API backend
+- MySQL database (LAMP server)
+
+### Ukuthula: Community Shield App
 Hackathon project addressing gender-based violence and personal safety.
-- **Tech:** React Native, Firebase, PHP, MySQL, Figma
 
-### 4. Personal Portfolio Website
-Responsive portfolio showcasing my projects and skills.
-- **Tech:** HTML, CSS, JavaScript, GitHub Pages
+- React Native (Expo) mobile app
+- Firebase for authentication and storage
+- PHP + MySQL backend
+
+### Personal Portfolio Website
+[Repository](https://github.com/Alon-Algorithm/My-Portfolio) | [Live Demo](https://alon-algorithm.github.io/My-Portfolio/)
+
+Responsive portfolio showcasing projects and skills.
+
+- HTML5, CSS3, JavaScript
+- Deployed on GitHub Pages
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- **Microsoft Azure Fundamentals** - Microsoft Learn
+- Microsoft Azure Fundamentals - Microsoft Learn
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alondwe-mabaso-0b099937b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alon-Algorithm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://alon-algorithm.github.io/My-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alondwemabaso1@students.wits.ac.za)
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-> "I built an AI app that tells people what they should learn next... and now I use it myself!"
-
----
-
-**Thanks for visiting!** ⭐ If you like my work, consider giving it a star!
 
 ---
 
