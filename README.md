@@ -13,9 +13,9 @@
 
 🎓 **Computer Science student** at the University of the Witwatersrand  
 💻 **Full-Stack Developer** | **Mobile Developer** | **Machine Learning Enthusiast**  
-🔭 Building the **AI-Powered Career Intelligence Platform**  
-🌱 Currently learning **Parallel Computing** and **Machine Learning**  
-🎯 2026 Goal: **Graduate Software Engineer**  
+🔭 Built the **AI-Powered Career Intelligence Platform**  
+🌱 Currently learning  **Machine Learning**  
+  
 
 ---
 
