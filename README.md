@@ -68,7 +68,11 @@ Currently expanding knowledge in Machine Learning.
 ## Featured Projects
 
 ### AI-Powered Career Intelligence Platform
-[Repository](https://github.com/Alon-Algorithm/career-intelligence-platform) | [Live Demo](https://career-intelligence-platform-1-xuy1.onrender.com)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alon-Algorithm/career-intelligence-platform)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://career-intelligence-platform-1-xuy1.onrender.com)
+[![Stars](https://img.shields.io/github/stars/Alon-Algorithm/career-intelligence-platform?style=for-the-badge&logo=github&color=yellow)](https://github.com/Alon-Algorithm/career-intelligence-platform)
+[![Forks](https://img.shields.io/github/forks/Alon-Algorithm/career-intelligence-platform?style=for-the-badge&logo=github&color=blue)](https://github.com/Alon-Algorithm/career-intelligence-platform)
 
 Full-stack web application that analyzes CVs and provides personalized career recommendations using machine learning.
 
@@ -80,18 +84,28 @@ Full-stack web application that analyzes CVs and provides personalized career re
 
 **Tech Stack:** React · TypeScript · Tailwind CSS · Python · FastAPI · scikit-learn · Docker · Render
 
+---
+
 ### Mobile Market (Android + PHP)
+
 Full-stack mobile marketplace with user authentication and rating system.
 
 **Tech Stack:** Java · Android Studio · PHP · MySQL · LAMP
 
+---
+
 ### Ukuthula: Community Shield App
+
 Hackathon project addressing gender-based violence and personal safety.
 
 **Tech Stack:** React Native · Firebase · PHP · MySQL · Figma
 
+---
+
 ### Personal Portfolio Website
-[Repository](https://github.com/Alon-Algorithm/My-Portfolio) | [Live Demo](https://alon-algorithm.github.io/My-Portfolio/)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alon-Algorithm/My-Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=github&logoColor=white)](https://alon-algorithm.github.io/My-Portfolio/)
 
 Responsive portfolio showcasing projects and skills.
 
