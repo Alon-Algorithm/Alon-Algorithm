@@ -11,20 +11,20 @@
 ## About
 
 Computer Science student at the University of the Witwatersrand.  
-Full-Stack Developer with experience in Java, Python, PHP, and React.  
-Machine Learning practitioner with hands-on experience in scikit-learn and K-Means clustering.  
-Built and deployed the AI-Powered Career Intelligence Platform.  
-Currently expanding knowledge in Machine Learning and Parallel Computing.
+Full-Stack Developer with experience in **Java, Python, C++, PHP, and React**.  
+Machine Learning practitioner with hands-on experience in scikit-learn.  
+Built and deployed the **AI-Powered Career Intelligence Platform**.  
+Currently expanding knowledge in Machine Learning.
 
 ---
 
 ## Technical Skills
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frontend
@@ -70,35 +70,32 @@ Currently expanding knowledge in Machine Learning and Parallel Computing.
 ### AI-Powered Career Intelligence Platform
 [Repository](https://github.com/Alon-Algorithm/career-intelligence-platform) | [Live Demo](https://career-intelligence-platform-1-xuy1.onrender.com)
 
-Full-stack AI application using K-Means clustering to analyze CVs and provide personalized career recommendations with learning resources, certifications, and project ideas.
+Full-stack web application that analyzes CVs and provides personalized career recommendations using machine learning.
 
 - React + TypeScript frontend with Tailwind CSS
-- FastAPI backend with scikit-learn for ML clustering
-- PDF parsing and skill extraction
+- FastAPI backend with Python and scikit-learn for ML algorithms
+- PDF parsing and skill extraction with NLP
 - 10 career clusters with detailed insights
 - Deployed on Render with CI/CD
+
+**Tech Stack:** React · TypeScript · Tailwind CSS · Python · FastAPI · scikit-learn · Docker · Render
 
 ### Mobile Market (Android + PHP)
 Full-stack mobile marketplace with user authentication and rating system.
 
-- Java + Android Studio frontend
-- PHP RESTful API backend
-- MySQL database (LAMP server)
+**Tech Stack:** Java · Android Studio · PHP · MySQL · LAMP
 
 ### Ukuthula: Community Shield App
 Hackathon project addressing gender-based violence and personal safety.
 
-- React Native (Expo) mobile app
-- Firebase for authentication and storage
-- PHP + MySQL backend
+**Tech Stack:** React Native · Firebase · PHP · MySQL · Figma
 
 ### Personal Portfolio Website
 [Repository](https://github.com/Alon-Algorithm/My-Portfolio) | [Live Demo](https://alon-algorithm.github.io/My-Portfolio/)
 
 Responsive portfolio showcasing projects and skills.
 
-- HTML5, CSS3, JavaScript
-- Deployed on GitHub Pages
+**Tech Stack:** HTML · CSS · JavaScript · GitHub Pages
 
 ---
 
