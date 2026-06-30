@@ -59,8 +59,7 @@ Currently expanding knowledge in Machine Learning.
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alon-Algorithm&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alon-Algorithm&layout=compact&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alon-Algorithm&theme=light" width="100%"/>
 </div>
 
 ---
