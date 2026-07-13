@@ -13,8 +13,8 @@
 Computer Science student at the University of the Witwatersrand.  
 Full-Stack Developer with experience in **Java, Python, C++, PHP, and React**.  
 Machine Learning practitioner with hands-on experience in scikit-learn.  
-Built and deployed the **AI-Powered Career Intelligence Platform**.  
-Currently expanding knowledge in Machine Learning.
+Built and deployed multiple full-stack AI applications.  
+Currently expanding knowledge in Machine Learning and AI.
 
 ---
 
@@ -47,6 +47,7 @@ Currently expanding knowledge in Machine Learning.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -66,12 +67,35 @@ Currently expanding knowledge in Machine Learning.
 
 ## Featured Projects
 
+### AI Scam Hub
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alon-Algorithm/ai-scam-hub)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-scam-hub-1.onrender.com)
+
+AI-powered platform that helps individuals identify online scams, phishing attempts, fraudulent job advertisements, fake websites, and AI-generated misinformation.
+
+**Key Features:**
+- **Message Analysis** - Detect scams in WhatsApp, SMS, emails, and social media content with real-time risk assessment
+- **Job Advertisement Checker** - Identify fraudulent job postings and recruitment scams
+- **URL Safety Checker** - Detect phishing links, suspicious domains, and malicious websites
+- **Image & Screenshot Analysis** - Upload screenshots of suspicious messages for OCR text extraction and scam detection
+- **Misinformation Detector** - Analyze news articles and social media posts for potential misinformation
+- **Education Hub** - Interactive learning resources with expandable topics and knowledge quizzes
+
+**Technical Highlights:**
+- Hybrid ML architecture combining pattern matching with trained models
+- 92% detection accuracy using TF-IDF and Logistic Regression
+- Explainable AI with transparent predictions and user-friendly explanations
+- Professional UI with Material Icons and corporate color theme (#25DEEB)
+
+**Tech Stack:** React · TypeScript · Tailwind CSS · FastAPI · Python · scikit-learn · NLTK · Tesseract OCR · Docker · Render
+
+---
+
 ### AI-Powered Career Intelligence Platform
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alon-Algorithm/career-intelligence-platform)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://career-intelligence-platform-1-xuy1.onrender.com)
-[![Stars](https://img.shields.io/github/stars/Alon-Algorithm/career-intelligence-platform?style=for-the-badge&logo=github&color=yellow)](https://github.com/Alon-Algorithm/career-intelligence-platform)
-[![Forks](https://img.shields.io/github/forks/Alon-Algorithm/career-intelligence-platform?style=for-the-badge&logo=github&color=blue)](https://github.com/Alon-Algorithm/career-intelligence-platform)
 
 Full-stack web application that analyzes CVs and provides personalized career recommendations using machine learning.
 
@@ -127,4 +151,4 @@ Responsive portfolio showcasing projects and skills.
 
 ---
 
-*Last Updated: June 2026*
+*Last Updated: July 2026*
